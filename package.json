@@ -1,0 +1,22 @@
+{
+  "name": "emailbotcreator",
+  "version": "1.0.0",
+  "description": "EmailBotCreator",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscodegeek/EmailBotCreator.git"
+  },
+  "author": "evgeniy.safronov@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscodegeek/EmailBotCreator/issues"
+  },
+  "homepage": "https://github.com/jscodegeek/EmailBotCreator#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
