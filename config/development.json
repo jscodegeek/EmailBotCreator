@@ -15,6 +15,9 @@
     },
     "logs": {
         "filePath": "log/developmnent.log"           
+    },
+    "phones": {
+        "receivesmsonline" : [ ["44", "7428509851"], ["4", "0765932439"], ["33", "755416554"], ["3", "4603365149"] ]
     }
 
 }

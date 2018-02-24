@@ -12,4 +12,4 @@ const logger = new (winston.Logger)({
     ]
 });
 
-logger.info(`EmailBotCreator started, instanceId: ${appInstanceId} `);
+logger.info(`EmailBotCreator started, instanceId: ${appInstanceId}`);
