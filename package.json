@@ -4,7 +4,8 @@
   "description": "EmailBotCreator",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "start": "node app.js",
+    "eslint": "./node_modules/.bin/eslint 'app.js'"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,12 @@
   },
   "homepage": "https://github.com/jscodegeek/EmailBotCreator#readme",
   "dependencies": {
-    "lodash": "^4.17.5"
+    "config": "^1.29.4",
+    "guid": "0.0.12",
+    "lodash": "^4.17.5",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1"
   }
 }

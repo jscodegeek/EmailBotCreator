@@ -1,0 +1,20 @@
+{
+    "port": 3001,    
+    "dbConfig": {
+        "host": "localhost",
+        "port": 5432,
+        "dbName": "emailbotcreator"
+    },
+    "emailProviders": {
+        "mailru": {
+            "available": true
+        },
+        "pocztainteria": {
+            "available": false
+        }
+    },
+    "logs": {
+        "filePath": "log/developmnent.log"           
+    }
+
+}
