@@ -1,9 +1,11 @@
 {
     "port": 3001,    
     "dbConfig": {
-        "host": "localhost",
-        "port": 5432,
-        "dbName": "emailbotcreator"
+        "username": "postgres",
+        "password": null,
+        "database": "emailbotcreator_development",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
     },
     "emailProviders": {
         "mailru": {
