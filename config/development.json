@@ -7,10 +7,12 @@
     },
     "emailProviders": {
         "mailru": {
-            "available": true
+            "available": true,
+            "registrationUrl": "https://account.mail.ru/signup"
         },
         "pocztainteria": {
-            "available": false
+            "available": false,
+            "registrationUrl": "https://konto.interia.pl/poczta/nowe-konto"
         }
     },
     "logs": {

@@ -19,9 +19,17 @@
   "homepage": "https://github.com/jscodegeek/EmailBotCreator#readme",
   "dependencies": {
     "chance": "^1.0.13",
+    "cherio": "^1.0.0-rc.2",
+    "child_process": "^1.0.2",
+    "chromedriver": "^2.35.0",
     "config": "^1.29.4",
     "guid": "0.0.12",
+    "install": "^0.10.4",
+    "jsdom": "^11.6.2",
     "lodash": "^4.17.5",
+    "npm": "^5.6.0",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-alpha.1",
     "winston": "^2.4.0"
   },
   "devDependencies": {
